@@ -1,6 +1,6 @@
 # Reflected XSS Vulnerability Scanner
 
-## ⚠️ Disclaimer & Ethical Use
+##  Disclaimer & Ethical Use
 **This tool is intended for authorized security testing and educational purposes only.**  
 Always obtain explicit written permission from the website owner before scanning. Running automated scanners against websites you do not own or have authorization to test may violate computer misuse laws and terms of service. The authors are not liable for any misuse or damages caused by this software.
 
